@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/vimages"
+        android:icon="@drawable/ic_images_black_24dp"
+        android:title="Images" />
+
+    <item
+        android:id="@+id/vvideos"
+        android:icon="@drawable/ic_videos_black_24dp"
+        android:title="Videos" />
+
+    <item
+        android:id="@+id/vdownloads2"
+        android:icon="@drawable/ic_saved_black_24dp"
+        android:title="Downloads" />
+
+</menu>

@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "680912124228",
+    "firebase_url": "https://statussaver-42e47.firebaseio.com",
+    "project_id": "statussaver-42e47",
+    "storage_bucket": "statussaver-42e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680912124228:android:1544d19130b5ec40dd7f11",
+        "android_client_info": {
+          "package_name": "com.mabnets.egov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyELLGuZ5YUCrd_4BNWy4OS7M2ELmlss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680912124228:android:64f7a9fd98a5b358dd7f11",
+        "android_client_info": {
+          "package_name": "com.mabnets.statussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyELLGuZ5YUCrd_4BNWy4OS7M2ELmlss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680912124228:android:91e14c7c0379c812dd7f11",
+        "android_client_info": {
+          "package_name": "com.mabnets.statussaverquick"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyELLGuZ5YUCrd_4BNWy4OS7M2ELmlss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680912124228:android:a30021924cb424c1dd7f11",
+        "android_client_info": {
+          "package_name": "com.mamafua.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCyELLGuZ5YUCrd_4BNWy4OS7M2ELmlss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680912124228-knoeap0npkrkcscqo9onii18et4k9hv3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

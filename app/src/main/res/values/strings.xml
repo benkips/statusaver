@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whatsapp status saver</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="permission_request">To complete the action, this permission is required; without it we are not able to perform the action; please allow the permission</string>
+    <string name="write_storage">Write Storage</string>
+    <string name="send_to">Share image to…</string>
+</resources>
